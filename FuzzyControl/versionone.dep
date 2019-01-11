@@ -1,0 +1,172 @@
+# Microsoft Developer Studio Generated Dependency File, included by versionone.mak
+
+.\BoolMap.cpp : \
+	".\BoolMap.h"\
+	
+
+.\FuzzyMap.cpp : \
+	".\FuzzyMap.h"\
+	
+
+.\FzyRelation.cpp : \
+	".\FzyRelation.h"\
+	".\MembFunc.h"\
+	".\versionone.h"\
+	
+
+.\GrayMap.cpp : \
+	".\GrayMap.h"\
+	".\versionone.h"\
+	
+
+.\InFer.cpp : \
+	".\FzyRelation.h"\
+	".\InFer.h"\
+	".\Matrix.h"\
+	".\MembFunc.h"\
+	".\versionone.h"\
+	
+
+.\Laser.cpp : \
+	".\BoolMap.h"\
+	".\Laser.h"\
+	
+
+.\list.cpp : \
+	".\list.h"\
+	".\versionone.h"\
+	
+
+.\MakeInferences.cpp : \
+	".\BoolMap.h"\
+	".\FuzzyMap.h"\
+	".\FzyRelation.h"\
+	".\GrayMap.h"\
+	".\InFer.h"\
+	".\Laser.h"\
+	".\list.h"\
+	".\MakeInferences.h"\
+	".\MakeMapping.h"\
+	".\MakeRelations.h"\
+	".\MapController.h"\
+	".\Matrix.h"\
+	".\MembFunc.h"\
+	".\Node.h"\
+	".\NodeMap.h"\
+	".\Robot.h"\
+	".\versionone.h"\
+	
+
+.\MakeMapping.cpp : \
+	".\MakeMapping.h"\
+	".\Matrix.h"\
+	".\versionone.h"\
+	
+
+.\MakeRelations.cpp : \
+	".\FzyRelation.h"\
+	".\MakeRelations.h"\
+	".\MembFunc.h"\
+	".\versionone.h"\
+	
+
+.\MapController.cpp : \
+	".\BoolMap.h"\
+	".\FuzzyMap.h"\
+	".\FzyRelation.h"\
+	".\GrayMap.h"\
+	".\InFer.h"\
+	".\Laser.h"\
+	".\list.h"\
+	".\MakeInferences.h"\
+	".\MakeMapping.h"\
+	".\MakeRelations.h"\
+	".\MapController.h"\
+	".\Matrix.h"\
+	".\MembFunc.h"\
+	".\Node.h"\
+	".\NodeMap.h"\
+	".\Robot.h"\
+	".\versionone.h"\
+	
+
+.\Matrix.cpp : \
+	".\Matrix.h"\
+	".\versionone.h"\
+	
+
+.\MembFunc.cpp : \
+	".\FzyRelation.h"\
+	".\MembFunc.h"\
+	".\versionone.h"\
+	
+
+.\Node.cpp : \
+	".\Node.h"\
+	
+
+.\NodeMap.cpp : \
+	".\BoolMap.h"\
+	".\FuzzyMap.h"\
+	".\FzyRelation.h"\
+	".\GrayMap.h"\
+	".\InFer.h"\
+	".\Laser.h"\
+	".\list.h"\
+	".\MakeInferences.h"\
+	".\MakeMapping.h"\
+	".\MakeRelations.h"\
+	".\MapController.h"\
+	".\Matrix.h"\
+	".\MembFunc.h"\
+	".\Node.h"\
+	".\NodeMap.h"\
+	".\Robot.h"\
+	".\versionone.h"\
+	
+
+.\Robot.cpp : \
+	".\BoolMap.h"\
+	".\FuzzyMap.h"\
+	".\FzyRelation.h"\
+	".\GrayMap.h"\
+	".\InFer.h"\
+	".\Laser.h"\
+	".\list.h"\
+	".\MakeInferences.h"\
+	".\MakeMapping.h"\
+	".\MakeRelations.h"\
+	".\MapController.h"\
+	".\Matrix.h"\
+	".\MembFunc.h"\
+	".\Node.h"\
+	".\NodeMap.h"\
+	".\Robot.h"\
+	".\versionone.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\versionone.cpp : \
+	".\BoolMap.h"\
+	".\FuzzyMap.h"\
+	".\FzyRelation.h"\
+	".\GrayMap.h"\
+	".\InFer.h"\
+	".\Laser.h"\
+	".\list.h"\
+	".\MakeInferences.h"\
+	".\MakeMapping.h"\
+	".\MakeRelations.h"\
+	".\MapController.h"\
+	".\Matrix.h"\
+	".\MembFunc.h"\
+	".\Node.h"\
+	".\NodeMap.h"\
+	".\Robot.h"\
+	".\versionone.h"\
+	"c:\program files\microsoft visual studio\vc98\include\gl\glut.h"\
+	
